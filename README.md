@@ -1,5 +1,5 @@
 # JAVA2
-## Github용어
+## 1일차 - Github용어
 * Repository(레포지토리)
   - 디렉터리 또는 폴더를 한곳에 모아두는곳
 * Branch(브런치)
